@@ -53,7 +53,7 @@ Then, follow the easy steps to install and get started using the sample app.
 This is done with the `git clone` command followed by the URL of the repository:
 
 ```bash
-git clone https://github.com/pathway-labs/dropbox-ai-chat
+git clone https://github.com/divyadarshansoni/Dropbox_Chatbot
 ```
 
 Next,  navigate to the project folder:
