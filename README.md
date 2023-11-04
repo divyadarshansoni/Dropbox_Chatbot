@@ -85,7 +85,13 @@ Replace DROPBOX_LOCAL_FOLDER_PATH with your local Dropbox folder path and option
 Create a new virtual environment in the same folder and activate that environment:
 
 ```bash
+For Linux/Mac
 python -m venv pw-env && source pw-env/bin/activate
+```
+```bash
+For Windows
+python -m venv pw-env
+pw-env/Scripts/activate
 ```
 
 #### Step 4: Install the app dependencies
